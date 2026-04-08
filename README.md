@@ -164,4 +164,4 @@ The schema follows a **star schema** design with `orders` as the central fact ta
 **Beig Danish**
 Data Engineer | 3+ Years Experience
 - 📧 danishbeig121@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ramiz-beig/](https://www.linkedin.com/in/danish-beig-4a6732386/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danish-beig-4a6732386/)
